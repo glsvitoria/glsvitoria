@@ -1,13 +1,21 @@
 # Oi, meu nome é Guilherme Lordêlo Seixas Vitória👋
-- 👀 Estou começando agora a entra desse mundo de programação, e desde já quero começar a aprender a usar essa ferramenta do GitHub que sei que será muito importante lá na frente
-- 💞️ Hoje em dia estou fazer faculdade de Engenharia da Computação e estudando linguagens de programação, comecei pela lógica por inteiro e agora estou avançado em C e C++ e também fiz parte da Imersão Dev da alura sobre HTML, CSS e JS e poder ter uma base geral sobre para depois realmente pegar para estudar por completo
-- 🌱 Eu frequentemente no tempo livre jogo online, me divirto com meus colegas, pesquiso novidades na internet, vidrado em tecnologia, e até utilizo esse tempo para adiquirir mais conhecimenos em linguagens de programação
-- 📫 Posso ser encontrado no:
-  1 - Linkedin: https://www.linkedin.com/in/guilherme-vitoria/
-  2 - Instagram: @_glsvitoria_
-  3 - Discord: Guilherme Vitória#0503
 
-<!---
-glsvitoria/glsvitoria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Um pouco sobre mim
+
+👨‍🎓 Graduando de Engenharia de Computação na UFBA 
+
+🤝 Faço para da Empresa Júnior de Engenharia da Computação - [<img src="https://img.shields.io/badge/-TITAN-yellow"/>](https://titanci.com.br)
+
+💻 Front-End Beginner 
+
+🎮 Eu frequentemente no tempo livre jogo online, me divirto com meus colegas, pesquiso novidades na internet, vidrado em tecnologia, e até utilizo esse tempo para adiquirir mais conhecimenos em linguagens de programação 
+## Onde posso ser encontrado?  📫
+  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/glsvitoria/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/glsvitoria/)
+
+## Conhecimento básico até então
+  
+Front-End ➡  [<img src="https://img.shields.io/static/v1?label=&message=HTML&color=orange&style=for-the-badge&logo=HTML5&logoColor=white" />](https://github.com/glsvitoria) [<img src="https://img.shields.io/static/v1?label=&message=CSS&color=blue&style=for-the-badge&logo=CSS3&logoColor=white" />](https://github.com/glsvitoria)
+
+Versionamento de Código ➡ [<img src="https://img.shields.io/static/v1?label=&message=GITHUB&color=696969&style=for-the-badge&logo=GITHUB&logoColor=white" />](https://github.com/glsvitoria) [<img src="https://img.shields.io/static/v1?label=&message=GIT&color=1C1C1C&style=for-the-badge&logo=GIT&logoColor=white" />](https://github.com/glsvitoria)
+
+  ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=glsvitoria)
