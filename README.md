@@ -4,7 +4,7 @@
 
 👨‍🎓 Graduando de Engenharia de Computação na UFBA 
 
-🤝 Faço para da Empresa Júnior de Engenharia da Computação [<img targer="_blank" src="https://img.shields.io/badge/-TITAN-yellow"/>](https://titanci.com.br)
+🤝 Faço para da Empresa Júnior de Engenharia da Computação [<img src="https://img.shields.io/badge/-TITAN-yellow"/>](https://titanci.com.br)
 
 💻 Front-End Beginner 
 
