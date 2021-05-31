@@ -14,8 +14,8 @@
 
 ## Conhecimento básico até então
   
-Front-End ➡  [<img src="https://img.shields.io/static/v1?label=&message=HTML&color=orange&style=for-the-badge&logo=HTML5&logoColor=white" />](https://github.com/glsvitoria) [<img src="https://img.shields.io/static/v1?label=&message=CSS&color=blue&style=for-the-badge&logo=CSS3&logoColor=white" />](https://github.com/glsvitoria)
+Front-End [<img src="https://img.shields.io/static/v1?label=&message=HTML&color=orange&style=for-the-badge&logo=HTML5&logoColor=white" />](https://github.com/glsvitoria) [<img src="https://img.shields.io/static/v1?label=&message=CSS&color=blue&style=for-the-badge&logo=CSS3&logoColor=white" />](https://github.com/glsvitoria)
 
-Versionamento de Código ➡ [<img src="https://img.shields.io/static/v1?label=&message=GITHUB&color=696969&style=for-the-badge&logo=GITHUB&logoColor=white" />](https://github.com/glsvitoria) [<img src="https://img.shields.io/static/v1?label=&message=GIT&color=1C1C1C&style=for-the-badge&logo=GIT&logoColor=white" />](https://github.com/glsvitoria)
+Versionamento de Código [<img src="https://img.shields.io/static/v1?label=&message=GITHUB&color=696969&style=for-the-badge&logo=GITHUB&logoColor=white" />](https://github.com/glsvitoria) [<img src="https://img.shields.io/static/v1?label=&message=GIT&color=1C1C1C&style=for-the-badge&logo=GIT&logoColor=white" />](https://github.com/glsvitoria)
 
   ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=glsvitoria)
