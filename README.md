@@ -11,6 +11,7 @@
 🎮 Eu frequentemente no tempo livre jogo online, me divirto com meus colegas, pesquiso novidades na internet, vidrado em tecnologia, e até utilizo esse tempo para adiquirir mais conhecimenos em linguagens de programação 
 ## Onde posso ser encontrado?  📫
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/glsvitoria/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/glsvitoria/)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glsvitoria&layout=compact&langs_count=16&theme=dracula"/>
 
 ## Conhecimento básico até então
   
