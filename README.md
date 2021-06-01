@@ -20,4 +20,4 @@ Versionamento de Código  [<img src="https://img.shields.io/static/v1?label=&mes
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=glsvitoria)
 
-![Snake animation](https://github.com/glsvitoria)
+![Snake animation](https://github.com/glsvitoria/blob/output/github-contribution-grid-snake.svg)
