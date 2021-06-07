@@ -1,4 +1,4 @@
-# Oi, meu nome é Guilherme Lordêlo Seixas Vitória👋
+# Oii, meu nome é Guilherme Lordêlo Seixas Vitória👋
 
 ## Um pouco sobre mim
 
