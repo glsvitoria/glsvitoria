@@ -13,8 +13,10 @@
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/glsvitoria/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/glsvitoria/)
 
 ## Conhecimento básico até então
+
+LINGUAGENS -> [<img src="https://img.shields.io/static/v1?label=&message=JS&color=yellowgreen&style=for-the-badge&logo=JavaScript&logoColor=white" />](https://github.com/glsvitoria)
   
-FRONT-END -> [<img src="https://img.shields.io/static/v1?label=&message=HTML&color=orange&style=for-the-badge&logo=HTML5&logoColor=white" />](https://github.com/glsvitoria) [<img src="https://img.shields.io/static/v1?label=&message=CSS&color=blue&style=for-the-badge&logo=CSS3&logoColor=white" />](https://github.com/glsvitoria) [<img src="https://img.shields.io/static/v1?label=&message=JS&color=yellowgreen&style=for-the-badge&logo=JavaScript&logoColor=white" />](https://github.com/glsvitoria)
+FRONT-END -> [<img src="https://img.shields.io/static/v1?label=&message=HTML&color=orange&style=for-the-badge&logo=HTML5&logoColor=white" />](https://github.com/glsvitoria) [<img src="https://img.shields.io/static/v1?label=&message=CSS&color=blue&style=for-the-badge&logo=CSS3&logoColor=white" />](https://github.com/glsvitoria) 
 
 VERSIONAMENTO DE CÓDIGO -> [<img src="https://img.shields.io/static/v1?label=&message=GITHUB&color=696969&style=for-the-badge&logo=GITHUB&logoColor=white" />](https://github.com/glsvitoria) [<img src="https://img.shields.io/static/v1?label=&message=GIT&color=1C1C1C&style=for-the-badge&logo=GIT&logoColor=white" />](https://github.com/glsvitoria)
 
