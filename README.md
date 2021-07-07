@@ -6,7 +6,7 @@
 
 🤝 Assessor de Vendas TITAN JR -  da Empresa Júnior de Engenharia da Computação [<img src="https://img.shields.io/badge/-TITAN-yellow"/>](https://titanci.com.br)
 
-💻 Front-End
+💻 Desenvolvedor Front-End
 
 ❤️ Apaixonado por tecnologia, programação, inovação e resolver problemas apartir desses meios
 
