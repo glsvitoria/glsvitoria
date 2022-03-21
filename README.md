@@ -18,8 +18,15 @@
 ## Conhecimento básico até então
 
 LINGUAGENS -> [<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />](https://github.com/glsvitoria)
+[<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />](https://github.com/glsvitoria)
+
   
-FRONT-END -> [<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />](https://github.com/glsvitoria) [<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />](https://github.com/glsvitoria) [<img src="https://img.shields.io/static/v1?label=&message=React&color=black&style=for-the-badge&logo=React&logoColor=white" />](https://github.com/glsvitoria) [<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />](https://github.com/glsvitoria)
+FRONT-END -> [<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />](https://github.com/glsvitoria)
+[<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />](https://github.com/glsvitoria)
+[<img src="https://img.shields.io/static/v1?label=&message=React&color=black&style=for-the-badge&logo=React&logoColor=white" />](https://github.com/glsvitoria)
+[<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />](https://github.com/glsvitoria)
+[<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />](https://github.com/glsvitoria)
+[<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />](https://github.com/glsvitoria)
 
 VERSIONAMENTO DE CÓDIGO -> [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/glsvitoria) [<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />](https://github.com/glsvitoria)
 
