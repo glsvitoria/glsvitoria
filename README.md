@@ -2,9 +2,9 @@
 
 ## Um pouco sobre mim
 
-👨‍🎓 Graduando de Engenharia de Computação na UFBA 
+👨‍🎓 Graduando de Ciência da Computação na UFBA 
 
-🤝 Assessor de Vendas TITAN JR -  da Empresa Júnior de Engenharia da Computação [<img src="https://img.shields.io/badge/-TITAN-yellow"/>](https://titanci.com.br)
+🤝 Gerente de Vendas TITAN JR -  da Empresa Júnior de Engenharia da Computação [<img src="https://img.shields.io/badge/-TITAN-yellow"/>](https://titanci.com.br)
 
 💼 Desenvolvedor Web na AutoU [<img src="https://img.shields.io/badge/-AUTOU-blue"/>](https://autou.io)
 
