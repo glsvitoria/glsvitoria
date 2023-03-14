@@ -6,7 +6,7 @@
 
 🤝 Gerente de Vendas TITAN JR -  da Empresa Júnior de Engenharia da Computação [<img src="https://img.shields.io/badge/-TITAN-yellow"/>](https://titanci.com.br)
 
-💼 Desenvolvedor Web na AutoU [<img src="https://img.shields.io/badge/-AUTOU-blue"/>](https://autou.io)
+💼 Desenvolvedor Web na VFlows [<img src="https://img.shields.io/badge/-VFlows-yellow"/>]()
 
 💻 Desenvolvedor Front-End
 
