@@ -6,7 +6,7 @@
 
 🤝 Desenvolvedor Web da TITAN JR -  da Empresa Júnior de Engenharia da Computação [<img src="https://img.shields.io/badge/TITAN-FFD400.svg?style=for-the-badge&logo=TITAN&logoColor=black"/>](https://titanci.com.br)
 
-💼 Desenvolvedor Web na VFlows [<img src="https://img.shields.io/badge/-VFlows-yellow"/>]()
+💼 Desenvolvedor Web na VFlows [<img src="https://img.shields.io/badge/VFlows-FFD400.svg?style=for-the-badge&logo=VFlows&logoColor=black"/>]()
 
 💻 Desenvolvedor Front-End
 
