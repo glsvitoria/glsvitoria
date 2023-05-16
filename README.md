@@ -47,7 +47,7 @@ BANCO DE DADOS [<img src="https://img.shields.io/badge/postgres-%23316192.svg?st
 
 DEPLOY [<img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />](https://github.com/glsvitoria)
 [<img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />](https://github.com/glsvitoria)
-[<img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" />](https://github.com/glsvitoria)
+[<img src="https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white" />](https://github.com/glsvitoria)
 [<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />](https://github.com/glsvitoria)
 
 <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=glsvitoria&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glsvitoria&layout=compact&langs_count=16&theme=dracula"/>
