@@ -4,7 +4,7 @@
 
 👨‍🎓 Graduando de Ciência da Computação na UFBA 
 
-🤝 Gerente de Vendas TITAN JR -  da Empresa Júnior de Engenharia da Computação [<img src="https://img.shields.io/badge/-TITAN-yellow"/>](https://titanci.com.br)
+🤝 Desenvolvedor Web da TITAN JR -  da Empresa Júnior de Engenharia da Computação [<img src="https://img.shields.io/badge/-TITAN-yellow"/>](https://titanci.com.br)
 
 💼 Desenvolvedor Web na VFlows [<img src="https://img.shields.io/badge/-VFlows-yellow"/>]()
 
@@ -19,13 +19,13 @@
 
 ## Conhecimento básico até então
 
-LINGUAGENS [<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />](https://github.com/glsvitoria)
+LINGUAGENS [<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />](https://github.com/glsvitoria)
 [<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />](https://github.com/glsvitoria)
 [<img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" />](https://github.com/glsvitoria)
+[<img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white" />](https://github.com/glsvitoria)
+[<img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black" />](https://github.com/glsvitoria)
 
 
-
-  
 FRONT-END [<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />](https://github.com/glsvitoria)
 [<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />](https://github.com/glsvitoria)
 [<img src="https://img.shields.io/static/v1?label=&message=React&color=black&style=for-the-badge&logo=React&logoColor=white" />](https://github.com/glsvitoria)
