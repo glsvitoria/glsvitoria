@@ -69,7 +69,7 @@ DEPLOY
 CMS
 
 [<img src="https://img.shields.io/badge/Strapi-2F2E8B.svg?style=for-the-badge&logo=Strapi&logoColor=white" />](https://github.com/glsvitoria)
-[<img src="https://img.shields.io/badge/PrismicCMS-5163BA.svg?style=for-the-badge&logo=Prismic&logoColor=white" />](https://github.com/glsvitoria)
+[<img src="https://img.shields.io/badge/Prismic%20CMS-5163BA.svg?style=for-the-badge&logo=Prismic&logoColor=white" />](https://github.com/glsvitoria)
 
 <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=glsvitoria&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glsvitoria&layout=compact&langs_count=16&theme=dracula"/>
 	
