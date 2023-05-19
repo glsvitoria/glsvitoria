@@ -15,7 +15,7 @@
 🎮 Eu frequentemente no tempo livre jogo online, me divirto com meus amigos, pesquiso novidades na internet, vidrado em tecnologia, e até utilizo esse tempo para adiquirir mais conhecimenos em programação a partir de inúmeros cursos pela internet
 
 ## Onde posso ser encontrado?  📫
-  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/glsvitoria/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/glsvitoria/) [<img src="[https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white](mailto:guivitoria2010@hotmail.com)
+  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/glsvitoria/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/glsvitoria/) [<img src="[https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](mailto:guivitoria2010@hotmail.com)
   
 
 ## Conhecimento básico até então
