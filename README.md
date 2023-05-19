@@ -16,7 +16,7 @@
 
 ## Onde posso ser encontrado?  📫
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/glsvitoria/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/glsvitoria/)
-  [<img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" />](mailto:guivitoria2010@hotmail.com)
+  [<img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" />](mailto:guivitoria2010@hotmail.com)
   
 
 ## Conhecimento básico até então
@@ -65,6 +65,11 @@ DEPLOY
 [<img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />](https://github.com/glsvitoria)
 [<img src="https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white" />](https://github.com/glsvitoria)
 [<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />](https://github.com/glsvitoria)
+
+CMS
+
+[<img src="https://img.shields.io/badge/Strapi-2F2E8B.svg?style=for-the-badge&logo=Strapi&logoColor=white" />](https://github.com/glsvitoria)
+[<img src="https://img.shields.io/badge/PrismicCMS-5163BA.svg?style=for-the-badge&logo=Prismic&logoColor=white" />](https://github.com/glsvitoria)
 
 <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=glsvitoria&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glsvitoria&layout=compact&langs_count=16&theme=dracula"/>
 	
