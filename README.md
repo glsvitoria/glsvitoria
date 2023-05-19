@@ -40,6 +40,11 @@ FRONT-END
 [<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />](https://github.com/glsvitoria)
 [<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" />](https://github.com/glsvitoria)
 
+MOBILE
+
+[<img src="https://img.shields.io/badge/React%20Native-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />](https://github.com/glsvitoria)
+[<img src="https://img.shields.io/badge/Expo-000020.svg?style=for-the-badge&logo=Expo&logoColor=white" />](https://github.com/glsvitoria)
+
 BANCO DE DADOS 
 
 [<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />](https://github.com/glsvitoria)
