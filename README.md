@@ -56,6 +56,7 @@ OUTRAS TECNOLOGIAS
 [<img src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black" />](https://github.com/glsvitoria)
 [<img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />](https://github.com/glsvitoria)
 [<img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" />](https://github.com/glsvitoria)
+[<img src="https://img.shields.io/badge/Clockify-03A9F4.svg?style=for-the-badge&logo=Clockify&logoColor=white" />](https://github.com/glsvitoria)
 
 BANCO DE DADOS 
 
