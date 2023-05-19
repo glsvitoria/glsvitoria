@@ -4,7 +4,7 @@
 
 👨‍🎓 Graduando de Ciência da Computação na UFBA 
 
-🤝 Desenvolvedor Web da TITAN JR -  da Empresa Júnior de Engenharia da Computação [<img align="center" width="6%" src="https://titanci.com.br/assets/img/logo-com-nome.png"/>](https://titanci.com.br)<br />
+🤝 Desenvolvedor Web da TITAN JR - Empresa Júnior de Engenharia da Computação [<img align="center" width="6%" src="https://titanci.com.br/assets/img/logo-com-nome.png"/>](https://titanci.com.br)<br />
 
 💼 Desenvolvedor Web na VFlows [<img align="center" width="6%" src="https://static.wixstatic.com/media/6c5f72_07081a5d3eda42f48977e87e41b3cd3a~mv2.png/v1/fill/w_413,h_156,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/MARCA%204.png"/>](https://www.link.neoen.co/vflows)<br />
 
