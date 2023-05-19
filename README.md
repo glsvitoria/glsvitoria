@@ -40,9 +40,11 @@ FRONT-END
 [<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />](https://github.com/glsvitoria)
 [<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" />](https://github.com/glsvitoria)
 
-VERSIONAMENTO DE CÓDIGO 
+VERSIONAMENTO DE CÓDIGO e COMUNICAÇÃO
 
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/glsvitoria) [<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />](https://github.com/glsvitoria)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/glsvitoria)
+[<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />](https://github.com/glsvitoria)
+[<img src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white" />](https://github.com/glsvitoria)
 
 DESIGN 
 
