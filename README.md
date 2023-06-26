@@ -85,7 +85,7 @@ OUTRAS TECNOLOGIAS
 [<img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" />](https://github.com/glsvitoria)
 [<img src="https://img.shields.io/badge/Clockify-03A9F4.svg?style=for-the-badge&logo=Clockify&logoColor=white" />](https://github.com/glsvitoria)
 
-<img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=glsvitoria&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glsvitoria&layout=compact&langs_count=16&theme=dracula"/>
+<img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=glsvitoria&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glsvitoria&layout=compact&theme=dracula"/>
 	
 
 <!-- ![Snake animation](https://github.com/glsvitoria/glsvitoria/blob/output/github-contribution-grid-snake.svg) -->
