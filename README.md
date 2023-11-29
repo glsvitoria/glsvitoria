@@ -4,9 +4,9 @@
 
 👨‍🎓 Graduando de Ciência da Computação na UFBA 
 
-🤝 Desenvolvedor Web da TITAN - Empresa Júnior de Engenharia da Computação [<img align="center" width="6%" src="https://titanci.com.br/assets/img/logo-com-nome.png"/>](https://titanci.com.br)<br />
+🤝 Desenvolvedor FrontEnd da TITAN - Empresa Júnior de Engenharia da Computação [<img align="center" width="6%" src="https://titanci.com.br/assets/img/logo-com-nome.png"/>](https://titanci.com.br)<br />
 
-💼 Desenvolvedor Web na VFlows [<img align="center" width="6%" src="https://static.wixstatic.com/media/6c5f72_07081a5d3eda42f48977e87e41b3cd3a~mv2.png/v1/fill/w_413,h_156,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/MARCA%204.png"/>](https://www.link.neoen.co/vflows)<br />
+💼 Desenvolvedor FullStack na VFlows [<img align="center" width="6%" src="https://static.wixstatic.com/media/6c5f72_07081a5d3eda42f48977e87e41b3cd3a~mv2.png/v1/fill/w_413,h_156,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/MARCA%204.png"/>](https://www.link.neoen.co/vflows)<br />
 
 💻 Desenvolvedor Front-End
 
@@ -76,6 +76,7 @@ DEPLOY
 [<img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />](https://github.com/glsvitoria)
 [<img src="https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white" />](https://github.com/glsvitoria)
 [<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />](https://github.com/glsvitoria)
+[<img src="https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?style=for-the-badge&logo=Amazon-EC2&logoColor=white" />](https://github.com/glsvitoria)
 
 OUTRAS TECNOLOGIAS 
 
