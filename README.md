@@ -76,7 +76,7 @@ DEPLOY
 [<img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />](https://github.com/glsvitoria)
 [<img src="https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white" />](https://github.com/glsvitoria)
 [<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />](https://github.com/glsvitoria)
-[<img src="https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?style=for-the-badge&logo=Amazon-EC2&logoColor=white" />](https://github.com/glsvitoria)
+[<img src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white" />](https://github.com/glsvitoria)
 
 OUTRAS TECNOLOGIAS 
 
