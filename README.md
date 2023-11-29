@@ -23,22 +23,32 @@
 
 LINGUAGENS 
 
-[<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />](https://github.com/glsvitoria)
-[<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />](https://github.com/glsvitoria)
-[<img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" />](https://github.com/glsvitoria)
-[<img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white" />](https://github.com/glsvitoria)
-[<img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black" />](https://github.com/glsvitoria)
+[<img src="https://skillicons.dev/icons?i=js&theme=dark" />](https://github.com/glsvitoria)
+[<img src="https://skillicons.dev/icons?i=ts&theme=dark" />](https://github.com/glsvitoria)
+[<img src="https://skillicons.dev/icons?i=py&theme=dark" />](https://github.com/glsvitoria)
+[<img src="https://skillicons.dev/icons?i=cpp&theme=dark" />](https://github.com/glsvitoria)
+[<img src="https://skillicons.dev/icons?i=c&theme=dark" />](https://github.com/glsvitoria)
 
 
 FRONT-END 
 
-[<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />](https://github.com/glsvitoria)
-[<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />](https://github.com/glsvitoria)
-[<img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />](https://github.com/glsvitoria)
-[<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />](https://github.com/glsvitoria)
-[<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />](https://github.com/glsvitoria)
-[<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />](https://github.com/glsvitoria)
-[<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" />](https://github.com/glsvitoria)
+[<img src="https://skillicons.dev/icons?i=html&theme=dark" />](https://github.com/glsvitoria)
+[<img src="https://skillicons.dev/icons?i=css&theme=dark" />](https://github.com/glsvitoria)
+[<img src="https://skillicons.dev/icons?i=react&theme=dark" />](https://github.com/glsvitoria)
+[<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" />](https://github.com/glsvitoria)
+[<img src="https://skillicons.dev/icons?i=styledcomponents&theme=dark" />](https://github.com/glsvitoria)
+[<img src="https://skillicons.dev/icons?i=sass&theme=dark" />](https://github.com/glsvitoria)
+[<img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" />](https://github.com/glsvitoria)
+[<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" />](https://github.com/glsvitoria)
+
+BACK-END
+
+[<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />](https://github.com/glsvitoria)
+[<img src="https://skillicons.dev/icons?i=express&theme=dark" />](https://github.com/glsvitoria)
+[<img src="https://skillicons.dev/icons?i=prisma&theme=dark" />](https://github.com/glsvitoria)
+
+[<img src="https://img.shields.io/badge/Fastify-000000.svg?style=for-the-badge&logo=Fastify&logoColor=white" />](https://github.com/glsvitoria)
+[<img src="https://img.shields.io/badge/Zod-3E67B1.svg?style=for-the-badge&logo=Zod&logoColor=white" />](https://github.com/glsvitoria)
 
 MOBILE
 
@@ -47,7 +57,7 @@ MOBILE
 
 BANCO DE DADOS 
 
-[<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />](https://github.com/glsvitoria)
+[<img src="https://skillicons.dev/icons?i=postgres&theme=dark" />](https://github.com/glsvitoria)
 
 CMS
 
@@ -56,33 +66,43 @@ CMS
 
 VERSIONAMENTO DE CÓDIGO
 
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/glsvitoria)
-[<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />](https://github.com/glsvitoria)
+[<img src="https://skillicons.dev/icons?i=github&theme=dark" />](https://github.com/glsvitoria)
+[<img src="https://skillicons.dev/icons?i=git&theme=dark" />](https://github.com/glsvitoria)
 
 COMUNICAÇÃO
 
+[<img src="https://skillicons.dev/icons?i=discord&theme=dark" />](https://github.com/glsvitoria)
+
 [<img src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white" />](https://github.com/glsvitoria)
 [<img src="https://img.shields.io/badge/Basecamp-1D2D35.svg?style=for-the-badge&logo=Basecamp&logoColor=white" />](https://github.com/glsvitoria)
-[<img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" />](https://github.com/glsvitoria)
 [<img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7.svg?style=for-the-badge&logo=Microsoft-Teams&logoColor=white" />](https://github.com/glsvitoria)
 
 DESIGN 
 
-[<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />](https://github.com/glsvitoria)
+[<img src="https://skillicons.dev/icons?i=figma&theme=dark" />](https://github.com/glsvitoria)
 
 DEPLOY 
 
-[<img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />](https://github.com/glsvitoria)
-[<img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />](https://github.com/glsvitoria)
+[<img src="https://skillicons.dev/icons?i=heroku&theme=dark" />](https://github.com/glsvitoria)
+[<img src="https://skillicons.dev/icons?i=googlecloud&theme=dark" />](https://github.com/glsvitoria)
+[<img src="https://skillicons.dev/icons?i=vercel&theme=dark" />](https://github.com/glsvitoria)
+[<img src="https://skillicons.dev/icons?i=aws&theme=dark" />](https://github.com/glsvitoria)
+
 [<img src="https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white" />](https://github.com/glsvitoria)
-[<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />](https://github.com/glsvitoria)
-[<img src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white" />](https://github.com/glsvitoria)
+
+TESTS
+
+[<img src="https://skillicons.dev/icons?i=jest&theme=dark" />](https://github.com/glsvitoria)
+
+[<img src="https://img.shields.io/badge/Vitest-6E9F18.svg?style=for-the-badge&logo=Vitest&logoColor=white" />](https://github.com/glsvitoria)
 
 OUTRAS TECNOLOGIAS 
 
-[<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />](https://github.com/glsvitoria)
-[<img src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black" />](https://github.com/glsvitoria)
-[<img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />](https://github.com/glsvitoria)
+[<img src="https://skillicons.dev/icons?i=nginx&theme=dark" />](https://github.com/glsvitoria)
+[<img src="https://skillicons.dev/icons?i=postman&theme=dark" />](https://github.com/glsvitoria)
+[<img src="https://skillicons.dev/icons?i=babel&theme=dark" />](https://github.com/glsvitoria)
+[<img src="https://skillicons.dev/icons?i=webpack&theme=dark" />](https://github.com/glsvitoria)
+
 [<img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" />](https://github.com/glsvitoria)
 [<img src="https://img.shields.io/badge/Clockify-03A9F4.svg?style=for-the-badge&logo=Clockify&logoColor=white" />](https://github.com/glsvitoria)
 
