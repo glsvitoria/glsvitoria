@@ -4,15 +4,13 @@
 
 👨‍🎓 Graduando de Ciência da Computação na UFBA 
 
-🤝 Desenvolvedor FrontEnd da TITAN - Empresa Júnior de Engenharia da Computação [<img align="center" width="6%" src="https://titanci.com.br/assets/img/logo-com-nome.png"/>](https://titanci.com.br)<br />
+💼 Tech Lead na Blue Saúde
 
-💼 Desenvolvedor FrontEnd na Saúde Blue
-
-💻 Desenvolvedor Front-End
+💻 Desenvolvedor FullStack
 
 ❤️ Apaixonado por tecnologia, programação, inovação e resolver problemas apartir desses meios
 
-🎮 Eu frequentemente no tempo livre jogo online, me divirto com meus amigos, pesquiso novidades na internet, vidrado em tecnologia, e até utilizo esse tempo para adiquirir mais conhecimenos em programação a partir de inúmeros cursos pela internet
+🎸 Uma curiosidade minha é que aprendi a tocar violão e se tornou um dos meus hobbies favoritos por ser o momento que tenho para me desligar de tudo ao redor, me concentrando exclusivamente no próximo acorde que será tocado
 
 ## Onde posso ser encontrado?  📫
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/glsvitoria/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/glsvitoria/)
@@ -40,12 +38,14 @@ FRONT-END
 [<img src="https://skillicons.dev/icons?i=sass&theme=dark" />](https://github.com/glsvitoria)
 [<img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" />](https://github.com/glsvitoria)
 [<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" />](https://github.com/glsvitoria)
+[<img src="https://skillicons.dev/icons?i=materialui&theme=dark" />](https://github.com/glsvitoria)
 
 BACK-END
 
 [<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />](https://github.com/glsvitoria)
 [<img src="https://skillicons.dev/icons?i=express&theme=dark" />](https://github.com/glsvitoria)
 [<img src="https://skillicons.dev/icons?i=prisma&theme=dark" />](https://github.com/glsvitoria)
+[<img src="https://skillicons.dev/icons?i=nestjs&theme=dark" />](https://github.com/glsvitoria)
 
 [<img src="https://img.shields.io/badge/Fastify-000000.svg?style=for-the-badge&logo=Fastify&logoColor=white" />](https://github.com/glsvitoria)
 [<img src="https://img.shields.io/badge/Zod-3E67B1.svg?style=for-the-badge&logo=Zod&logoColor=white" />](https://github.com/glsvitoria)
@@ -58,6 +58,7 @@ MOBILE
 BANCO DE DADOS 
 
 [<img src="https://skillicons.dev/icons?i=postgres&theme=dark" />](https://github.com/glsvitoria)
+[<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" />](https://github.com/glsvitoria)
 
 CMS
 
@@ -83,22 +84,22 @@ DESIGN
 
 DEPLOY 
 
-[<img src="https://skillicons.dev/icons?i=heroku&theme=dark" />](https://github.com/glsvitoria)
 [<img src="https://skillicons.dev/icons?i=googlecloud&theme=dark" />](https://github.com/glsvitoria)
 [<img src="https://skillicons.dev/icons?i=vercel&theme=dark" />](https://github.com/glsvitoria)
 [<img src="https://skillicons.dev/icons?i=aws&theme=dark" />](https://github.com/glsvitoria)
+[<img src="https://skillicons.dev/icons?i=docker&theme=dark" />](https://github.com/glsvitoria)
+[<img src="https://skillicons.dev/icons?i=nginx&theme=dark" />](https://github.com/glsvitoria)
 
 [<img src="https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white" />](https://github.com/glsvitoria)
 
 TESTS
 
 [<img src="https://skillicons.dev/icons?i=jest&theme=dark" />](https://github.com/glsvitoria)
-
-[<img src="https://img.shields.io/badge/Vitest-6E9F18.svg?style=for-the-badge&logo=Vitest&logoColor=white" />](https://github.com/glsvitoria)
+[<img src="https://skillicons.dev/icons?i=vitest&theme=dark" />](https://github.com/glsvitoria)
 
 OUTRAS TECNOLOGIAS 
 
-[<img src="https://skillicons.dev/icons?i=nginx&theme=dark" />](https://github.com/glsvitoria)
+[<img src="https://skillicons.dev/icons?i=pnpm&theme=dark" />](https://github.com/glsvitoria)
 [<img src="https://skillicons.dev/icons?i=postman&theme=dark" />](https://github.com/glsvitoria)
 [<img src="https://skillicons.dev/icons?i=babel&theme=dark" />](https://github.com/glsvitoria)
 [<img src="https://skillicons.dev/icons?i=webpack&theme=dark" />](https://github.com/glsvitoria)
