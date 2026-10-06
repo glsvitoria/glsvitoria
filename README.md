@@ -4,7 +4,7 @@
 
 👨‍🎓 Graduando de Ciência da Computação na UFBA 
 
-💼 Tech Lead na Blue Saúde
+💼 Software Engineer na Doji
 
 💻 Desenvolvedor FullStack
 
